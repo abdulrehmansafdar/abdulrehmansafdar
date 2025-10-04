@@ -18,7 +18,7 @@ Currently working as a **Junior Software Developer**, while pursuing my studies 
 - 🏗️ Worked on projects like:
   - 🗨️ **Chat Circle** – a Slack-like team communication app  
   - 🧠 **Intelligent PM Tool** – smart project management system  
-  - 💰 **Jhaz Bank** – a desktop banking application (WPF)  
+  - 💰 **CampusCircle** – a web based application for ease in class/university management 
   - 🤖 **Salary Prediction System** – ML-based AI project  
 
 ---
