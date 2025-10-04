@@ -18,7 +18,7 @@ Currently working as a **Junior Software Developer**, while pursuing my studies 
 - 🏗️ Worked on projects like:
   - 🗨️ **Chat Circle** – a Slack-like team communication app  
   - 🧠 **Intelligent PM Tool** – smart project management system  
-  - 💰 **CampusCircle** – a web based application for ease in class/university management 
+  - 🎓 **CampusCircle** – a web based application for ease in class/university management 
   - 🤖 **Salary Prediction System** – ML-based AI project  
 
 ---
@@ -60,6 +60,7 @@ Currently working as a **Junior Software Developer**, while pursuing my studies 
 ![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=websocket&logoColor=white)
 
 </div>
+
 ---
 
 ## 📈 GitHub Stats
