@@ -46,6 +46,7 @@ Currently working as a **Junior Software Developer**, while pursuing my studies 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulRehmanSafdar&show_icons=true&theme=radical" height="180" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehmanSafdar&layout=compact&theme=radical" height="180" />
 </div>
 
