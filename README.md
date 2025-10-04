@@ -44,8 +44,10 @@ Currently working as a **Junior Software Developer**, while pursuing my studies 
 
 ## 📈 GitHub Stats
 
-![Abdul Rehman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulRehmanSafdar&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehmanSafdar&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRehmanSafdar&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehmanSafdar&layout=compact&theme=radical" height="180" />
+</div>
 
 ---
 
