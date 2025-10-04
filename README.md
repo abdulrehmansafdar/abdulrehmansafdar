@@ -23,22 +23,28 @@ Currently working as a **Junior Software Developer**, while pursuing my studies 
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
 
-**Frontend:** Angular, TypeScript, HTML5, CSS3, Tailwind  
-**Backend:** .NET Core, C#, Node.js (Basics)  
-**Desktop:** WPF, Windows Forms  
-**Database:** SQL Server, MySQL and Postgresql  
-**Tools:** Git, GitHub, VS Code, Visual Studio, Postman  
-**Others:** REST APIs, Clean Architecture, SSR, State Management  
+  <!-- 🛠️ Tech Stack -->
+  <div align="left">
+    <h2>🛠️ Tech Stack</h2>
+    <p><b>Frontend:</b> Angular, TypeScript, HTML5, CSS3, Tailwind</p>
+    <p><b>Backend:</b> .NET Core, C#, Node.js (Basics)</p>
+    <p><b>Desktop:</b> WPF, Windows Forms</p>
+    <p><b>Database:</b> SQL Server, MySQL, PostgreSQL</p>
+    <p><b>Tools:</b> Git, GitHub, VS Code, Visual Studio, Postman</p>
+    <p><b>Others:</b> REST APIs, Clean Architecture, SSR, State Management</p>
+  </div>
 
----
+  <!-- 🌐 Connect With Me -->
+  <div align="left">
+    <h2>🌐 Connect With Me</h2>
+    <p>🌍 <b>Portfolio:</b> <a href="https://abdulrehmansafdar.pages.dev" target="_blank">abdulrehmansafdar.pages.dev</a></p>
+    <p>💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/abdulrehman-safdar-7262ars" target="_blank">linkedin.com/in/abdulrehman-safdar-7262ars</a></p>
+    <p>📧 <b>Email:</b> <a href="mailto:abdulrehmansafdar2928@gmail.com">abdulrehmansafdar2928@gmail.com</a></p>
+  </div>
 
-## 🌐 Connect With Me
-
-🌍 Portfolio: [abdulrehmansafdar.pages.dev](https://abdulrehmansafdar.pages.dev)  
-💼 LinkedIn: [linkedin.com/in/abdulrehman-safdar-7262ars](https://www.linkedin.com/in/abdulrehman-safdar-7262ars)  
-📧 Email: abdulrehmansafdar2928@gmail.com  
+</div>
 
 ---
 
