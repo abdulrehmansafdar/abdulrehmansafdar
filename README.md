@@ -22,11 +22,8 @@ Currently working as a **Junior Software Developer**, while pursuing my studies 
   - 🤖 **Salary Prediction System** – ML-based AI project  
 
 ---
-
-## 🛠️ Tech Stack
-
 <div align="center">
-  ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -47,6 +44,9 @@ Currently working as a **Junior Software Developer**, while pursuing my studies 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+![SignalR](https://img.shields.io/badge/SignalR-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=websocket&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -57,11 +57,8 @@ Currently working as a **Junior Software Developer**, while pursuing my studies 
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![SSR](https://img.shields.io/badge/SSR-43853D?style=for-the-badge&logo=next.js&logoColor=white)
 ![State Management](https://img.shields.io/badge/State%20Management-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=websocket&logoColor=white)
 
 </div>
-
 ---
 
 ## 📈 GitHub Stats
