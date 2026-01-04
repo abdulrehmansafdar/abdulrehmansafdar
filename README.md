@@ -1,7 +1,5 @@
 # 👋 Hi! I'm Abdul Rehman Safdar
 
-✨ *With the grace of Allah*, I’m striving every day to become a better developer, learner, and human being.
-
 🎯 **Software Developer | Problem Solver | Tech Explorer**
 
 Welcome to my GitHub! I'm a passionate developer who loves building clean, efficient, and impactful software.  
@@ -13,7 +11,6 @@ Currently working as a **Junior Software Developer**, while pursuing my studies 
 
 - 💻 2+ years of experience in **Full-Stack Development**  
 - 🧠 Strong knowledge of **Angular**, **.NET Core**, **Node Js** and **WPF**  
-- 🤖 Exploring **Machine Learning** and **AI Integration**  
 - 🧩 Enjoy solving problems with **Data Structures & Algorithms**  
 - 🏗️ Worked on projects like:
   - 🗨️ **Chat Circle** – a Slack-like team communication app  
@@ -71,6 +68,3 @@ Currently working as a **Junior Software Developer**, while pursuing my studies 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehmanSafdar&layout=compact&theme=radical" height="180" />
 </div>
 
----
-
-> _"Code with intention, create with impact, and always seek Allah’s pleasure."_ ✨
