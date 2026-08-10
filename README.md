@@ -41,18 +41,6 @@ learning:    Distributed systems, DevOps, RabbitMQ / gRPC / MQTT patterns
 motto:       "Turn manual processes into measurable business impact."
 ```
 
-<div align="center">
-
-|  📌 Highlight | Impact |
-| :--- | :--- |
-| 🏗️ Architected multitenant ERPs & CRMs used by real businesses | **-40% payroll time**, **-30% manual record handling** |
-| ⚡ Delivered real-time systems with SignalR, WebSockets & FCM | Real-time attendance, notifications, chat |
-| 🔐 Designed dynamic UI-driven RBAC & Google OAuth flows | Permissions without code changes |
-| 🚀 Optimized Angular SSR + CDN delivery | **-60% global load time** on marketing sites |
-| 🧠 Shipped an AI dashboard (prompt → SELECT-only SQL) | Safe, self-serve business insights |
-
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -207,17 +195,6 @@ motto:       "Turn manual processes into measurable business impact."
 </div>
 
 > Medical CRM & billing platform with patient records, lead management, and HRMS — reducing manual record handling by **30%**. Added a **dynamic AI dashboard** that converts prompts to **SELECT-only SQL** with drag/resize charts, and integrated **ZK fingerprint attendance** with a GitHub CI/CD pipeline. Dynamic UI-driven **RBAC** lets admins grant permissions without code changes.
-
----
-
-<div align="center">
-
-### 🏭 CoreX — Production Order Management System
-`Angular 15` · `.NET Core Web API` · `Microservices` · `RabbitMQ` · `gRPC` · `MQTT` · `SQL Server`
-
-</div>
-
-> Enterprise ERP backend supporting **multi-tenant manufacturing clients** — digitizing paper-based BOM, routing, products and orders. Delivered a full **production lifecycle** (planning → execution → WIP → QC), an **OEE calculation engine** (Availability, Performance, Quality, Yield) with multi-level dashboards, and event-driven communication via **MQTT + RabbitMQ**. Containerized with Docker, CI/CD with systemd services.
 
 ---
 
