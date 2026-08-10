@@ -6,7 +6,7 @@
 </a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A73E8&center=true&vCenter=true&width=760&lines=Full-Stack+Web+Developer+%40+NKU+Technologies;.NET+Core+%2B+Angular+%2B+Microservices+specialist;BSCS+%40+UET+Lahore+%E2%80%94+Class+of+2027;Building+ERP%2C+HRMS+%26+CRM+platforms+at+scale;Turning+manual+workflows+into+automated+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A73E8&center=true&vCenter=true&width=760&lines=Full-Stack+Web+Developer+%40+NKU+Technologies;.NET+Core+%2B+Angular+%2B+Microservices+developer;BSCS+%40+UET+Lahore+%E2%80%94+Class+of+2027;Building+ERP%2C+HRMS+%26+CRM+platforms+at+scale;Turning+manual+workflows+into+automated+products" alt="Typing SVG" />
 </a>
 
 <br />
