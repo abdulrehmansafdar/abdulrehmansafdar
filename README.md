@@ -228,23 +228,21 @@ motto:       "Turn manual processes into measurable business impact."
 
 <div align="center">
 
-<!-- Profile summary cards (vn7n24fzkq) — widely-used, unaffected by the paused Vercel deployment -->
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulRehmanSafdar&theme=tokyonight" />
+<!-- Compact GitHub stat badges (shields.io) — rate-limit resilient replacement for the flaky summary cards -->
+<img src="https://img.shields.io/github/followers/AbdulRehmanSafdar?style=for-the-badge&logo=github&label=Followers&color=1a365d" />
+<img src="https://img.shields.io/github/stars/AbdulRehmanSafdar?style=for-the-badge&logo=github&label=Total%20Stars&color=1a365d" />
+<img src="https://img.shields.io/badge/Focus-.NET%20%2B%20Angular-1a365d?style=for-the-badge&logo=dotnet" />
+<img src="https://img.shields.io/badge/Location-Lahore%2C%20PK-1a365d?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
+<br/><br/>
+
+<!-- Streak stats (DenverCoder1, Heroku) — different host, unaffected by summary-cards rate limits -->
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehmanSafdar&theme=tokyonight&hide_border=true&background=0D1117&ring=1a73e8&fire=1a73e8&currStreakLabel=1a73e8" />
-
-<br/>
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdulRehmanSafdar&theme=tokyonight" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdulRehmanSafdar&theme=tokyonight&utcOffset=5" />
-
-<br/>
-
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdulRehmanSafdar&theme=tokyonight" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdulRehmanSafdar&theme=tokyonight" />
 
 <br/>
 
-<!-- Contribution snake — replaces the paused github-profile-trophy. Requires the Platane/snk GitHub Action running in your profile repo (see snippet below). -->
+<!-- Contribution snake — served from your own repo (output branch), zero rate-limit risk -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulRehmanSafdar/AbdulRehmanSafdar/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdulRehmanSafdar/AbdulRehmanSafdar/output/github-contribution-grid-snake.svg" />
